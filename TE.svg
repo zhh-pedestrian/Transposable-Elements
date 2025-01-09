@@ -1,0 +1,945 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1855.4400634765625" height="3310.274169921875" style="background-color: rgb(241, 241, 241);"><title>未命名</title><g class="smm-container" transform="matrix(1,0,0,1,-758.9999740600585,1245.1371948242188)"><g class="smm-line-container"><path d="M 897,410L 959.4,410L 959.4,-365Q 959.4,-370 964.4,-370L 1001,-370" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 897,410L 959.4,410L 959.4,1292.6372501148899Q 959.4,1297.6372501148899 964.4,1297.6372501148899L 1001,1297.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1155,-370L 1187.4,-370L 1187.4,-1032.6372501148896Q 1187.4,-1037.6372501148896 1192.4,-1037.6372501148896L 1209,-1037.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1155,-370L 1187.4,-370L 1187.4,-637.6372501148896Q 1187.4,-642.6372501148896 1192.4,-642.6372501148896L 1209,-642.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1155,-370L 1187.4,-370L 1187.4,-414.13725011488975Q 1187.4,-419.13725011488975 1192.4,-419.13725011488975L 1209,-419.13725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1155,-370L 1187.4,-370L 1187.4,-274Q 1187.4,-269 1192.4,-269L 1209,-269" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1155,-370L 1187.4,-370L 1187.4,170.13725011488975Q 1187.4,175.13725011488975 1192.4,175.13725011488975L 1209,175.13725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1321,-1037.6372501148896L 1353.4,-1037.6372501148896L 1353.4,-1204.1372501148896Q 1353.4,-1209.1372501148896 1358.4,-1209.1372501148896L 1375,-1209.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1321,-1037.6372501148896L 1353.4,-1037.6372501148896L 1353.4,-1004.1372501148896Q 1353.4,-999.1372501148896 1358.4,-999.1372501148896L 1375,-999.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1435,-1209.1372501148896L 1467.4,-1209.1372501148896L 1467.4,-1209.1372501148896L 1489,-1209.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1435,-999.1372501148896L 1467.4,-999.1372501148896L 1467.4,-1127.1372501148896Q 1467.4,-1132.1372501148896 1472.4,-1132.1372501148896L 1489,-1132.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1435,-999.1372501148896L 1467.4,-999.1372501148896L 1467.4,-1060.6372501148896Q 1467.4,-1065.6372501148896 1472.4,-1065.6372501148896L 1489,-1065.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1435,-999.1372501148896L 1467.4,-999.1372501148896L 1467.4,-1004.6372501148896Q 1467.4,-1009.6372501148896 1472.4,-1009.6372501148896L 1489,-1009.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1435,-999.1372501148896L 1467.4,-999.1372501148896L 1467.4,-958.6372501148896Q 1467.4,-953.6372501148896 1472.4,-953.6372501148896L 1489,-953.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1435,-999.1372501148896L 1467.4,-999.1372501148896L 1467.4,-881.6372501148896Q 1467.4,-876.6372501148896 1472.4,-876.6372501148896L 1489,-876.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1616,-1065.6372501148896L 1648.4,-1065.6372501148896L 1648.4,-1065.6372501148896L 1670,-1065.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1628,-1009.6372501148896L 1660.4,-1009.6372501148896L 1660.4,-1009.6372501148896L 1682,-1009.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1647,-953.6372501148896L 1679.4,-953.6372501148896L 1679.4,-953.6372501148896L 1701,-953.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1600,-876.6372501148896L 1632.4,-876.6372501148896L 1632.4,-876.6372501148896L 1654,-876.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1614,-1132.1372501148896L 1646.4,-1132.1372501148896L 1646.4,-1132.1372501148896L 1668,-1132.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1315,-642.6372501148896L 1347.4,-642.6372501148896L 1347.4,-753.1372501148896Q 1347.4,-758.1372501148896 1352.4,-758.1372501148896L 1369,-758.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1315,-642.6372501148896L 1347.4,-642.6372501148896L 1347.4,-578.1372501148896Q 1347.4,-573.1372501148896 1352.4,-573.1372501148896L 1369,-573.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1429,-758.1372501148896L 1461.4,-758.1372501148896L 1461.4,-758.1372501148896L 1483,-758.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1429,-573.1372501148896L 1461.4,-573.1372501148896L 1461.4,-645.1372501148896Q 1461.4,-650.1372501148896 1466.4,-650.1372501148896L 1483,-650.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1429,-573.1372501148896L 1461.4,-573.1372501148896L 1461.4,-573.1372501148896L 1483,-573.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1429,-573.1372501148896L 1461.4,-573.1372501148896L 1461.4,-501.13725011488975Q 1461.4,-496.13725011488975 1466.4,-496.13725011488975L 1483,-496.13725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1600,-650.1372501148896L 1632.4,-650.1372501148896L 1632.4,-650.1372501148896L 1654,-650.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1612,-573.1372501148896L 1644.4,-573.1372501148896L 1644.4,-573.1372501148896L 1666,-573.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1608,-496.13725011488975L 1640.4,-496.13725011488975L 1640.4,-496.13725011488975L 1662,-496.13725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1345,-419.13725011488975L 1377.4,-419.13725011488975L 1377.4,-419.13725011488975L 1399,-419.13725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1278,-269L 1310.4,-269L 1310.4,-302.5Q 1310.4,-307.5 1315.4,-307.5L 1332,-307.5" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1863,-307.5L 1895.4,-307.5L 1895.4,-312.49999999999994Q 1895.4,-307.49999999999994 1900.4,-307.49999999999994L 1917,-307.49999999999994" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none" opacity="1" style=""></path><path d="M 1278,-269L 1310.4,-269L 1310.4,-200.86274988511025Q 1310.4,-195.86274988511025 1315.4,-195.86274988511025L 1332,-195.86274988511025" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1279,175.13725011488975L 1311.4,175.13725011488975L 1311.4,-103.36274988511025Q 1311.4,-108.36274988511025 1316.4,-108.36274988511025L 1333,-108.36274988511025" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1279,175.13725011488975L 1311.4,175.13725011488975L 1311.4,-15.862749885110247Q 1311.4,-20.862749885110247 1316.4,-20.862749885110247L 1333,-20.862749885110247" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1279,175.13725011488975L 1311.4,175.13725011488975L 1311.4,257.63725011488975Q 1311.4,262.63725011488975 1316.4,262.63725011488975L 1333,262.63725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1393,262.63725011488975L 1425.4,262.63725011488975L 1425.4,190.63725011488975Q 1425.4,185.63725011488975 1430.4,185.63725011488975L 1447,185.63725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1393,262.63725011488975L 1425.4,262.63725011488975L 1425.4,387.13725011488987Q 1425.4,392.13725011488987 1430.4,392.13725011488987L 1447,392.13725011488987" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1393,262.63725011488975L 1425.4,262.63725011488975L 1425.4,464.13725011488964Q 1425.4,469.13725011488964 1430.4,469.13725011488964L 1447,469.13725011488964" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1595,185.63725011488975L 1627.4,185.63725011488975L 1627.4,50.63725011488975Q 1627.4,45.63725011488975 1632.4,45.63725011488975L 1649,45.63725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1595,185.63725011488975L 1627.4,185.63725011488975L 1627.4,208.63725011488975Q 1627.4,213.63725011488975 1632.4,213.63725011488975L 1649,213.63725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1747,213.63725011488975L 1779.4,213.63725011488975L 1779.4,106.63725011488975Q 1779.4,101.63725011488975 1784.4,101.63725011488975L 1801,101.63725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1747,213.63725011488975L 1779.4,213.63725011488975L 1779.4,162.63725011488975Q 1779.4,157.63725011488975 1784.4,157.63725011488975L 1801,157.63725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1747,213.63725011488975L 1779.4,213.63725011488975L 1779.4,213.63725011488975L 1801,213.63725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1747,213.63725011488975L 1779.4,213.63725011488975L 1779.4,264.63725011488975Q 1779.4,269.63725011488975 1784.4,269.63725011488975L 1801,269.63725011488975" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1747,213.63725011488975L 1779.4,213.63725011488975L 1779.4,320.63725011488964Q 1779.4,325.63725011488964 1784.4,325.63725011488964L 1801,325.63725011488964" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1617,392.13725011488987L 1649.4,392.13725011488987L 1649.4,392.13725011488987L 1671,392.13725011488987" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1610,469.13725011488964L 1642.4,469.13725011488964L 1642.4,469.13725011488964L 1664,469.13725011488964" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1161,1297.6372501148899L 1193.4,1297.6372501148899L 1193.4,581.6372501148899Q 1193.4,576.6372501148899 1198.4,576.6372501148899L 1215,576.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1161,1297.6372501148899L 1193.4,1297.6372501148899L 1193.4,679.6372501148899Q 1193.4,674.6372501148899 1198.4,674.6372501148899L 1215,674.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1161,1297.6372501148899L 1193.4,1297.6372501148899L 1193.4,1390.6372501148896Q 1193.4,1395.6372501148896 1198.4,1395.6372501148896L 1215,1395.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1393.939842224121,1395.6372501148896L 1426.3398422241212,1395.6372501148896L 1426.3398422241212,1257.1372501148896Q 1426.3398422241212,1252.1372501148896 1431.3398422241212,1252.1372501148896L 1447.939842224121,1252.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1681.939842224121,1252.1372501148896L 1714.3398422241212,1252.1372501148896L 1714.3398422241212,756.6372501148899Q 1714.3398422241212,751.6372501148899 1719.3398422241212,751.6372501148899L 1735.939842224121,751.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1393.939842224121,1395.6372501148896L 1426.3398422241212,1395.6372501148896L 1426.3398422241212,1919.1372501148896Q 1426.3398422241212,1924.1372501148896 1431.3398422241212,1924.1372501148896L 1447.939842224121,1924.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1549.939842224121,1924.1372501148896L 1582.3398422241212,1924.1372501148896L 1582.3398422241212,1813.6372501148896Q 1582.3398422241212,1808.6372501148896 1587.3398422241212,1808.6372501148896L 1603.939842224121,1808.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1549.939842224121,1924.1372501148896L 1582.3398422241212,1924.1372501148896L 1582.3398422241212,1947.1372501148896Q 1582.3398422241212,1952.1372501148896 1587.3398422241212,1952.1372501148896L 1603.939842224121,1952.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1663.939842224121,1952.1372501148896L 1696.3398422241212,1952.1372501148896L 1696.3398422241212,1880.1372501148896Q 1696.3398422241212,1875.1372501148896 1701.3398422241212,1875.1372501148896L 1717.939842224121,1875.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1663.939842224121,1952.1372501148896L 1696.3398422241212,1952.1372501148896L 1696.3398422241212,1985.6372501148896Q 1696.3398422241212,1990.6372501148896 1701.3398422241212,1990.6372501148896L 1717.939842224121,1990.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1846.939842224121,1875.1372501148896L 1879.3398422241212,1875.1372501148896L 1879.3398422241212,1875.1372501148896L 1900.939842224121,1875.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1852.939842224121,1990.6372501148896L 1885.3398422241212,1990.6372501148896L 1885.3398422241212,1957.1372501148896Q 1885.3398422241212,1952.1372501148896 1890.3398422241212,1952.1372501148896L 1906.939842224121,1952.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1852.939842224121,1990.6372501148896L 1885.3398422241212,1990.6372501148896L 1885.3398422241212,2024.1372501148896Q 1885.3398422241212,2029.1372501148896 1890.3398422241212,2029.1372501148896L 1906.939842224121,2029.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1681.939842224121,1252.1372501148896L 1714.3398422241212,1252.1372501148896L 1714.3398422241212,1275.1372501148896Q 1714.3398422241212,1280.1372501148896 1719.3398422241212,1280.1372501148896L 1735.939842224121,1280.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,833.6372501148899Q 1828.3398422241212,828.6372501148899 1833.3398422241212,828.6372501148899L 1849.939842224121,828.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 2005.939842224121,828.6372501148899L 2038.3398422241212,828.6372501148899L 2038.3398422241212,828.6372501148899L 2059.939842224121,828.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,931.6372501148899Q 1828.3398422241212,926.6372501148899 1833.3398422241212,926.6372501148899L 1849.939842224121,926.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1958.939842224121,926.6372501148899L 1991.3398422241212,926.6372501148899L 1991.3398422241212,926.6372501148899L 2012.939842224121,926.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,1029.6372501148899Q 1828.3398422241212,1024.6372501148899 1833.3398422241212,1024.6372501148899L 1849.939842224121,1024.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1978.939842224121,1024.6372501148899L 2011.3398422241212,1024.6372501148899L 2011.3398422241212,1024.6372501148899L 2032.939842224121,1024.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,1127.6372501148899Q 1828.3398422241212,1122.6372501148899 1833.3398422241212,1122.6372501148899L 1849.939842224121,1122.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1966.939842224121,1122.6372501148899L 1999.3398422241212,1122.6372501148899L 1999.3398422241212,1122.6372501148899L 2020.939842224121,1122.6372501148899" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,1225.6372501148896Q 1828.3398422241212,1220.6372501148896 1833.3398422241212,1220.6372501148896L 1849.939842224121,1220.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1971.939842224121,1220.6372501148896L 2004.3398422241212,1220.6372501148896L 2004.3398422241212,1220.6372501148896L 2025.939842224121,1220.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,1313.6372501148896Q 1828.3398422241212,1318.6372501148896 1833.3398422241212,1318.6372501148896L 1849.939842224121,1318.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1932.939842224121,1318.6372501148896L 1965.3398422241212,1318.6372501148896L 1965.3398422241212,1318.6372501148896L 1986.939842224121,1318.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,1411.6372501148896Q 1828.3398422241212,1416.6372501148896 1833.3398422241212,1416.6372501148896L 1849.939842224121,1416.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1985.939842224121,1416.6372501148896L 2018.3398422241212,1416.6372501148896L 2018.3398422241212,1416.6372501148896L 2039.939842224121,1416.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,1509.6372501148896Q 1828.3398422241212,1514.6372501148896 1833.3398422241212,1514.6372501148896L 1849.939842224121,1514.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 2019.939842224121,1514.6372501148896L 2052.339842224121,1514.6372501148896L 2052.339842224121,1514.6372501148896L 2073.939842224121,1514.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,1618.1372501148896Q 1828.3398422241212,1623.1372501148896 1833.3398422241212,1623.1372501148896L 1849.939842224121,1623.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1933.939842224121,1623.1372501148896L 1966.3398422241212,1623.1372501148896L 1966.3398422241212,1623.1372501148896L 1987.939842224121,1623.1372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1795.939842224121,1280.1372501148896L 1828.3398422241212,1280.1372501148896L 1828.3398422241212,1726.6372501148896Q 1828.3398422241212,1731.6372501148896 1833.3398422241212,1731.6372501148896L 1849.939842224121,1731.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path><path d="M 1936.939842224121,1731.6372501148896L 1969.3398422241212,1731.6372501148896L 1969.3398422241212,1731.6372501148896L 1990.939842224121,1731.6372501148896" stroke-dasharray="none" stroke-width="2" stroke="#1e3556" fill="none"></path></g><g class="smm-outer-frame-container"></g><g class="smm-node-container"><g class="smm-node" transform="matrix(1,0,0,1,768,388)" style="cursor: default;"><path d="
+      M10,0
+      L117,0
+      C117,0 127,0 127,10
+      L127,32
+      C127,32 127,42 117,42
+      L10,42
+      C10,42 0,42 0,32
+      L0,10
+      C0,10 0,0 10,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#1e3556" stroke-dasharray="none" stroke-width="2" stroke="#bdc5c9"></path><g transform="matrix(1,0,0,1,16,6)"><g data-width="97" data-height="32" data-offsetx="0" opacity="1"><foreignObject width="97" height="32" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><strong style="color: rgb(255, 255, 255);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 24px;">转座元件</strong></p></div><style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+  </style></foreignObject></g></g><rect width="133" height="48" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1001,-387)" style="cursor: default;" opacity="1"><path d="
+      M10,0
+      L142,0
+      C142,0 152,0 152,10
+      L152,22
+      C152,22 152,32 142,32
+      L10,32
+      C10,32 0,32 0,22
+      L0,10
+      C0,10 0,0 10,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#a9dada" stroke-dasharray="none" stroke-width="2" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,16,6)"><g data-width="122" data-height="22" data-offsetx="0" opacity="1"><foreignObject width="122" height="22" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(77, 77, 77);font-family: &quot;times new roman&quot;;font-size: 18px;">Class Ⅰ Elements</span></p></div></foreignObject></g></g><rect width="158" height="38" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="34" x="154" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1001,1280.6372501148899)" style="cursor: default;"><path d="
+      M10,0
+      L148,0
+      C148,0 158,0 158,10
+      L158,22
+      C158,22 158,32 148,32
+      L10,32
+      C10,32 0,32 0,22
+      L0,10
+      C0,10 0,0 10,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,1,1)" fill="#a9dada" stroke-dasharray="none" stroke-width="2" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,16,6)"><g data-width="128" data-height="22" data-offsetx="0" opacity="1"><foreignObject width="128" height="22" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(77, 77, 77);font-family: &quot;times new roman&quot;;font-size: 18px;">Class Ⅱ Elements</span></p></div></foreignObject></g></g><rect width="164" height="38" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="34" x="160" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1209,-1053.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L106,0
+      C106,0 111,0 111,5
+      L111,26
+      C111,26 111,31 106,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="81" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="81" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">LTR逆转座子</span></p></div></foreignObject></g></g><rect width="116" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="112" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1209,-658.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L100,0
+      C100,0 105,0 105,5
+      L105,26
+      C105,26 105,31 100,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="75" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="75" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">DIRS样元素</span></p></div></foreignObject></g></g><rect width="110" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="106" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1209,-435.13725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L130,0
+      C130,0 135,0 135,5
+      L135,26
+      C135,26 135,31 130,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="105" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="105" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Penelope样元素</span></p></div></foreignObject></g></g><rect width="140" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="136" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1209,-285)" style="cursor: default;"><path d="
+      M5,0
+      L63,0
+      C63,0 68,0 68,5
+      L68,26
+      C68,26 68,31 63,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="38" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="38" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">LINEs</span></p></div></foreignObject></g></g><rect width="73" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="69" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1209,159.13725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L64,0
+      C64,0 69,0 69,5
+      L69,26
+      C69,26 69,31 64,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="39" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="39" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">SINEs</span></p></div></foreignObject></g></g><rect width="74" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="70" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1375,-1225.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,26
+      C59,26 59,31 54,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="29" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="29" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">介绍</span></p></div></foreignObject></g></g><rect width="64" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="60" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1375,-1015.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,26
+      C59,26 59,31 54,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="29" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="29" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">分类</span></p></div></foreignObject></g></g><rect width="64" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="60" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1489,-1235.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">LTR逆转座子（Long Terminal Repeat Retrotransposons），两端有长的末端重复序列（LTRs），转座时通过RNA中间体进行。它们在人类基因组中约占8%</span></p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1489,-1148.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L119,0
+      C119,0 124,0 124,5
+      L124,26
+      C124,26 124,31 119,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="94" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="94" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>Copia超家族</p></div></foreignObject></g></g><rect width="129" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="125" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1489,-1081.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L121,0
+      C121,0 126,0 126,5
+      L126,26
+      C126,26 126,31 121,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="96" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="96" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>Gypsy超家族</p></div></foreignObject></g></g><rect width="131" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="127" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1489,-1025.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L133,0
+      C133,0 138,0 138,5
+      L138,26
+      C138,26 138,31 133,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="108" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="108" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>Bel-Pao超家族</p></div></foreignObject></g></g><rect width="143" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="139" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1489,-969.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L152,0
+      C152,0 157,0 157,5
+      L157,26
+      C157,26 157,31 152,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="127" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="127" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>Retrovirus超家族</p></div></foreignObject></g></g><rect width="162" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="158" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1489,-892.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L105,0
+      C105,0 110,0 110,5
+      L110,26
+      C110,26 110,31 105,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="80" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="80" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>ERV超家族</p></div></foreignObject></g></g><rect width="115" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="111" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1668,-1158.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>Copia超家族的成员在植物基因组中非常丰富，它们的LTRs中的调控元件可能参与调控邻近基因的表达</p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1670,-1081.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L319,0
+      C319,0 324,0 324,5
+      L324,26
+      C324,26 324,31 319,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="294" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="294" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Gypsy超家族在禾本科基因组中也占有重要地位</span></p></div></foreignObject></g></g><rect width="329" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1682,-1025.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L485,0
+      C485,0 490,0 490,5
+      L490,26
+      C490,26 490,31 485,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="460" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="460" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>Bel-Pao超家族的成员在后生动物中较为常见，如昆虫和脊椎动物</p></div></foreignObject></g></g><rect width="495" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1701,-969.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L298,0
+      C298,0 303,0 303,5
+      L303,26
+      C303,26 303,31 298,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="273" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="273" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>与外源性逆转录病毒在进化上密切相关</p></div></foreignObject></g></g><rect width="308" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1654,-913.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>ERV超家族是指内源性逆转录病毒，它们与外源性逆转录病毒在进化上密切相关。ERVs在宿主基因组中可以影响基因表达，参与免疫调节和细胞信号传导等过程。</p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1369,-774.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,26
+      C59,26 59,31 54,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="29" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="29" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">介绍</span></p></div></foreignObject></g></g><rect width="64" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="60" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1369,-589.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,26
+      C59,26 59,31 54,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="29" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="29" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">分类</span></p></div></foreignObject></g></g><rect width="64" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="60" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1483,-815.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,109
+      C530,109 530,114 525,114
+      L5,114
+      C5,114 0,114 0,109
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="104" data-offsetx="0" opacity="1"><foreignObject width="500" height="104" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>DIRS样元素（Dictyostelium Intermediate Repeat Sequence-like elements），末端不是简单的长末端重复序列（LTRs），而是具有复杂的结构，可能包含分裂的直接重复序列（split direct repeats, SDRs）或反向重复序列（inverted repeats）。这种独特的末端结构使得DIRS样元素在基因组中容易被识别。</p></div></foreignObject></g></g><rect width="535" height="119" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1483,-666.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L111,0
+      C111,0 116,0 116,5
+      L116,26
+      C116,26 116,31 111,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="86" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="86" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>DIRS超家族</p></div></foreignObject></g></g><rect width="121" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="117" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1483,-589.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L123,0
+      C123,0 128,0 128,5
+      L128,26
+      C128,26 128,31 123,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="98" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="98" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>Ngaro超家族</p></div></foreignObject></g></g><rect width="133" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="129" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1483,-512.1372501148898)" style="cursor: default;"><path d="
+      M5,0
+      L119,0
+      C119,0 124,0 124,5
+      L124,26
+      C124,26 124,31 119,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="94" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="94" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>VIPER超家族</p></div></foreignObject></g></g><rect width="129" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="125" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1654,-676.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>其成员具有典型的DIRS样结构特征，包括复杂的末端结构和酪氨酸重组酶编码区，广泛存在于多种真核生物中，包括真菌、植物和动物等</p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1666,-599.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">在</span>子囊菌门等特定的物种中存在，参与基因组结构的动态变化和进化过程</p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1662,-522.6372501148898)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">在特定的环境条件下或宿主基因组发生某些变化时，VIPER超家族的逆转座子可能会被激活，从而在基因组中发挥更显著的作用</span></p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1399,-445.63725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Penelope样元素（Penelope-like elements, PLEs）主要在一些昆虫、真菌和植物中发现，人类中尚未发现。</span></p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1332,-344.5)" style="cursor: default;" opacity="1"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">LINEs的长度通常在几千到几万个碱基对之间。它们由一个5'端非编码区、一个或多个开放阅读框（ORFs）以及一个3'端非编码区组成。LINEs的两端通常没有长的末端重复序列（LTRs），而是具有特定的序列特征。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="74" x="531" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1917,-368.63725011488964)" style="cursor: default;" opacity="1"><path d="
+      M5,0
+      L646.28564453125,0
+      C646.28564453125,0 651.28564453125,0 651.28564453125,5
+      L651.28564453125,116.27450022977942
+      C651.28564453125,116.27450022977942 651.28564453125,121.27450022977942 646.28564453125,121.27450022977942
+      L5,121.27450022977942
+      C5,121.27450022977942 0,121.27450022977942 0,116.27450022977942
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><image xlink:href="data:image/png;base64,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" width="621.28564453125" height="85.27450022977942" x="15.5" y="5.5"></image><g transform="matrix(1,0,0,1,325.642822265625,95.77450022977942)"><g data-width="1" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="1" height="21" x="0" y="0"><div></div></foreignObject></g></g><rect width="656.28564453125" height="126.27450022977942" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1332,-222.36274988511025)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">在所有真核生物界中都有发现。它们被分为五个主要的超家族：R2、L1、RTE、I和Jockey</span></p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1333,-145.36274988511025)" style="cursor: default;" opacity="1"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">SINEs属于Class I转座子，但与LINEs不同，它们是非自主的。SINEs不是自主转座子的简单缺失衍生物，而是起源于各种聚合酶III（Pol III）转录本的意外逆转座。与逆转录假基因不同，SINEs具有内部Pol III启动子，使它们能够被表达。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1333,-47.36274988511025)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">SINEs依赖LINEs提供的转座功能，如逆转录酶（RT）。一些“严格”的SINEs有一个独特的、必需的伙伴，而其他SINEs则是通用的。</span></p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1333,246.63725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,26
+      C59,26 59,31 54,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="29" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="29" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">分类</span></p></div></foreignObject></g></g><rect width="64" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="60" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1447,169.63725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L142,0
+      C142,0 147,0 147,5
+      L147,26
+      C147,26 147,31 142,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="117" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="117" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">tRNA来源的SINEs</span></p></div></foreignObject></g></g><rect width="152" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="148" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1447,376.13725011488987)" style="cursor: default;"><path d="
+      M5,0
+      L164,0
+      C164,0 169,0 169,5
+      L169,26
+      C169,26 169,31 164,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="139" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="139" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">7SL RNA来源的SINEs</span></p></div></foreignObject></g></g><rect width="174" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="170" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1447,453.13725011488964)" style="cursor: default;"><path d="
+      M5,0
+      L157,0
+      C157,0 162,0 162,5
+      L162,26
+      C162,26 162,31 157,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="132" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="132" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">5S RNA来源的SINEs</span></p></div></foreignObject></g></g><rect width="167" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="163" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1649,29.637250114889753)" style="cursor: default;"><path d="
+      M5,0
+      L314,0
+      C314,0 319,0 319,5
+      L319,26
+      C319,26 319,31 314,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="289" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="289" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">内部启动子包含一个tRNA基因的反向重复序列</span></p></div></foreignObject></g></g><rect width="324" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1649,197.63725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L92,0
+      C92,0 97,0 97,5
+      L97,26
+      C97,26 97,31 92,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><rect fill="transparent" width="20" height="32" x="98" y="0"></rect><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="67" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="67" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">常见SINEs</span></p></div></foreignObject></g></g><rect width="102" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1801,85.63725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L133,0
+      C133,0 138,0 138,5
+      L138,26
+      C138,26 138,31 133,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="108" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="108" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Alu元件（人类）</span></p></div></foreignObject></g></g><rect width="143" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1801,197.63725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L127,0
+      C127,0 132,0 132,5
+      L132,26
+      C132,26 132,31 127,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="102" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="102" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">B1元件（小鼠）</span></p></div></foreignObject></g></g><rect width="137" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1801,253.63725011488975)" style="cursor: default;"><path d="
+      M5,0
+      L142,0
+      C142,0 147,0 147,5
+      L147,26
+      C147,26 147,31 142,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="117" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="117" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>B2元件（大鼠）</p></div></foreignObject></g></g><rect width="152" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1801,141.63725011488975)" style="cursor: default;" opacity="1"><path d="
+      M5,0
+      L144,0
+      C144,0 149,0 149,5
+      L149,26
+      C149,26 149,31 144,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="119" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="119" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>&#160;ID元件（人类）</p></div></foreignObject></g></g><rect width="154" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1801,309.63725011488964)" style="cursor: default;"><path d="
+      M5,0
+      L185,0
+      C185,0 190,0 190,5
+      L190,26
+      C190,26 190,31 185,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="160" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="160" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>MIR元件（哺乳动物）</p></div></foreignObject></g></g><rect width="195" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1671,365.63725011488987)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>内部启动子区域来源于7SL RNA基因。7SL RNA是信号识别颗粒（SRP）的组成部分，在蛋白质合成过程中发挥作用</p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1664,442.63725011488964)" style="cursor: default;" opacity="1"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>内部启动子区域来源于5S RNA基因。5S RNA是核糖体的组成部分，在蛋白质合成过程中发挥作用</p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1215,539.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Class II Elements通过“剪切-粘贴”机制进行转座。转座酶识别转座子的末端序列（通常是末端倒位重复序列，TIRs），然后切割DNA双链，将转座子从供体位点移除并插入到新的基因组位置。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1215,637.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">在插入新的基因组位置时，Class II Elements通常会在插入位点产生短的直接重复序列，称为目标位点重复（TSD）。TSD的长度和序列特征因不同的转座子超家族而异。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1215,1379.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L172.9398422241211,0
+      C172.9398422241211,0 177.9398422241211,0 177.9398422241211,5
+      L177.9398422241211,26
+      C177.9398422241211,26 177.9398422241211,31 172.9398422241211,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.499996185302734,5.5)"><g data-width="29" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="29" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">分类</span></p></div></foreignObject></g><g><g><rect width="116.9398422241211" height="20" y="0.5" fill="hsla(280, 50%, 50%, 1)" rx="3" ry="3" x="31"></rect><text fill="#ffffff" style="font-size: 12px;" x="39.80000001192093" y="15.300000190734863" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}"><tspan dy="0" x="39.80000001192093" svgjs:data="{&quot;newLined&quot;:true}">按照DNA切割方式</tspan></text></g></g></g><rect width="182.9398422241211" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="178.9398422241211" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1447.939842224121,1236.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L228,0
+      C228,0 233,0 233,5
+      L233,26
+      C233,26 233,31 228,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="203" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="203" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TIR (Terminal Inverted Repeat)</span></p></div></foreignObject></g></g><rect width="238" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="234" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1735.939842224121,735.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L478,0
+      C478,0 483,0 483,5
+      L483,26
+      C483,26 483,31 478,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="453" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="453" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">转座子具有末端倒位重复序列（TIRs），并且在转座过程中切割DNA双链</span></p></div></foreignObject></g></g><rect width="488" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1447.939842224121,1908.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L96,0
+      C96,0 101,0 101,5
+      L101,26
+      C101,26 101,31 96,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="71" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="71" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Subclass 2</span></p></div></foreignObject></g></g><rect width="106" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="102" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1603.939842224121,1792.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L436,0
+      C436,0 441,0 441,5
+      L441,26
+      C441,26 441,31 436,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="411" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="411" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">转座子在转座过程中不切割DNA双链，而是通过复制机制进行转座</span></p></div></foreignObject></g></g><rect width="446" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1603.939842224121,1936.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,26
+      C59,26 59,31 54,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="29" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="29" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">分类</span></p></div></foreignObject></g></g><rect width="64" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="60" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1717.939842224121,1859.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L123,0
+      C123,0 128,0 128,5
+      L128,26
+      C128,26 128,31 123,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="98" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="98" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Helitron超家族</span></p></div></foreignObject></g></g><rect width="133" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="129" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1717.939842224121,1974.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L129,0
+      C129,0 134,0 134,5
+      L134,26
+      C134,26 134,31 129,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><rect fill="transparent" width="20" height="32" x="135" y="0"></rect><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="104" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="104" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Maverick超家族</span></p></div></foreignObject></g></g><rect width="139" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1900.939842224121,1848.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">转座酶首先识别并结合到Helitron的末端序列，然后切割DNA单链，形成一个单链的DNA环，进行复制，同时复制的DNA链被插入到新的基因组位置</span></p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1906.939842224121,1925.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>通过转座酶切割DNA单链，然后在染色体外进行复制。复制完成后，复制的转座子DNA被插入到新的基因组位置</p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1906.939842224121,2002.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,47
+      C530,47 530,52 525,52
+      L5,52
+      C5,52 0,52 0,47
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="42" data-offsetx="0" opacity="1"><foreignObject width="500" height="42" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>Maverick转座子具有长的末端倒位重复序列（TIRs），这些TIRs在转座过程中起到重要的识别和结合作用</p></div></foreignObject></g></g><rect width="535" height="57" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1735.939842224121,1264.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L54,0
+      C54,0 59,0 59,5
+      L59,26
+      C59,26 59,31 54,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="29" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="29" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">分类</span></p></div></foreignObject></g></g><rect width="64" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="60" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,812.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L150,0
+      C150,0 155,0 155,5
+      L155,26
+      C155,26 155,31 150,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><rect fill="transparent" width="20" height="32" x="156" y="0"></rect><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="125" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="125" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Tc1–Mariner超家族</span></p></div></foreignObject></g></g><rect width="160" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,2059.939842224121,791.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：TA（2 bp）</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">﻿特点：广泛存在于真核生物中，具有简单的结构，包括两个TIRs和一个转座酶开放阅读框（ORF）。这些转座子偏好插入到TA序列附近，产生TA TSD。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,910.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L103,0
+      C103,0 108,0 108,5
+      L108,26
+      C108,26 108,31 103,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="78" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="78" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>hAT超家族</p></div></foreignObject></g></g><rect width="113" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="109" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,2012.939842224121,889.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：8 bp</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：包括hobo、Ac-Ds和Tam3等家族。这些转座子具有较短的TIRs（5–27 bp），整体长度通常小于4 kb。hAT转座子在插入时产生8 bp的TSD。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,1008.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L123,0
+      C123,0 128,0 128,5
+      L128,26
+      C128,26 128,31 123,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="98" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="98" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Mutator超家族</span></p></div></foreignObject></g></g><rect width="133" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="129" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,2032.939842224121,987.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：9–11 bp</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：TIRs较长且多样性高，有时非常短或不可检测。这些转座子在插入时产生9–11 bp的TSD。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,1106.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L111,0
+      C111,0 116,0 116,5
+      L116,26
+      C116,26 116,31 111,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="86" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="86" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Merlin超家族</span></p></div></foreignObject></g></g><rect width="121" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="117" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,2020.939842224121,1085.6372501148899)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：8–9 bp</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：主要存在于动物和细菌中。这些转座子的TIRs长度从几十个到几百个碱基对不等，插入时产生8–9 bp的TSD。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,1204.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L116,0
+      C116,0 121,0 121,5
+      L121,26
+      C121,26 121,31 116,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="91" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="91" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Transib超家族</span></p></div></foreignObject></g></g><rect width="126" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="122" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,2025.939842224121,1183.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：5 bp</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：与RAG1蛋白有关，转座酶包含DDE基序，与参与V(D)J重组的RAG1蛋白相关。这些转座子在插入时产生5 bp的TSD。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,1302.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L77,0
+      C77,0 82,0 82,5
+      L82,26
+      C82,26 82,31 77,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="52" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="52" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">P超家族</span></p></div></foreignObject></g></g><rect width="87" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="83" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1986.939842224121,1281.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：8 bp</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：最初在昆虫基因组中发现，现在已知也存在于动物和绿藻中。这些转座子在插入时产生8 bp的TSD。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,1400.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L130,0
+      C130,0 135,0 135,5
+      L135,26
+      C135,26 135,31 130,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="105" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="105" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">PiggyBac超家族</span></p></div></foreignObject></g></g><rect width="140" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="136" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,2039.939842224121,1379.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：TTAA（4 bp）</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：主要在动物中发现，偏好插入到TTAA序列附近。这些转座子在插入时产生TTAA TSD。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,1498.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L164,0
+      C164,0 169,0 169,5
+      L169,26
+      C169,26 169,31 164,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><rect fill="transparent" width="20" height="32" x="170" y="0"></rect><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="139" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="139" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">PIF–Harbinger超家族</span></p></div></foreignObject></g></g><rect width="174" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,2073.939842224121,1477.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：3 bp</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：具有特定的目标位点偏好，插入时产生3 bp的TSD。这些转座子包含两个ORF，一个编码DNA结合蛋白，另一个编码DDE转座酶。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,1607.1372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L78,0
+      C78,0 83,0 83,5
+      L83,26
+      C83,26 83,31 78,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="53" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="53" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p>CACTA</p></div></foreignObject></g></g><rect width="88" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="84" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1987.939842224121,1575.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,89
+      C530,89 530,94 525,94
+      L5,94
+      C5,94 0,94 0,89
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="84" data-offsetx="0" opacity="1"><foreignObject width="500" height="84" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：2–3 bp</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：植物中的CACTA元件具有特定的TIR序列，短TIRs在植物中终止于高度保守的CACTA（有时是CACTG）基序，插入时产生2–3 bp的TSD。在动物和真菌中，TIRs终止于CCC基序，产生2 bp的TSD。</span></p></div></foreignObject></g></g><rect width="535" height="99" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1849.939842224121,1715.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L81,0
+      C81,0 86,0 86,5
+      L86,26
+      C86,26 86,31 81,31
+      L5,31
+      C5,31 0,31 0,26
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="56" data-height="21" data-offsetx="0" opacity="1"><foreignObject width="56" height="21" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">Crypton</span></p></div></foreignObject></g></g><rect width="91" height="36" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect><rect fill="transparent" width="20" height="32" x="87" y="0"></rect></g><g class="smm-node" transform="matrix(1,0,0,1,1990.939842224121,1694.6372501148896)" style="cursor: default;"><path d="
+      M5,0
+      L525,0
+      C525,0 530,0 530,5
+      L530,68
+      C530,68 530,73 525,73
+      L5,73
+      C5,73 0,73 0,68
+      L0,5
+      C0,5 0,0 5,0
+      Z
+    " class="smm-node-shape" transform="matrix(1,0,0,1,0.5,0.5)" fill="transparent" stroke-dasharray="none" stroke-width="1" stroke="#1e3556"></path><g transform="matrix(1,0,0,1,15.5,5.5)"><g data-width="500" data-height="63" data-offsetx="0" opacity="1"><foreignObject width="500" height="63" x="0" y="0"><div class="smm-richtext-node-wrap" xmlns="http://www.w3.org/1999/xhtml" style="max-width: 500px;"><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">TSD：0 bp</span></p><p><span style="color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;">特点：仅在真菌中发现，具有酪氨酸重组酶，但缺乏逆转录酶（RT）域，表明它们通过DNA中间体进行转座。这些转座子在插入时不产生TSD。</span></p></div></foreignObject></g></g><rect width="535" height="78" x="-2" y="-2" class="smm-hover-node" rx="5" ry="5" fill="none" stroke="#5ec8f8"></rect></g></g><g class="smm-associative-line-container"></g><g class="smm-other-container"></g></g><defs><marker markerWidth="10" markerHeight="10" refX="12" refY="5" viewBox="0 0 20 20" orient="auto-start-reverse"><path d="M0,0 L2,5 L0,10 L10,5 Z"></path></marker></defs><style>
+  /* 鼠标hover和激活时渲染的矩形 */
+  .smm-hover-node{
+    display: none;
+    opacity: 0.6;
+    stroke-width: 1;
+  }
+
+  .smm-node:not(.smm-node-dragging):hover .smm-hover-node{
+    display: block;
+  }
+
+  .smm-node.active .smm-hover-node, .smm-node-highlight .smm-hover-node{
+    display: block;
+    opacity: 1;
+    stroke-width: 2;
+  }
+
+      .smm-richtext-node-wrap {
+        word-break: break-all;
+      }
+
+      .smm-richtext-node-wrap p {
+        font-family: auto;
+      }
+      </style></svg>
